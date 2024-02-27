@@ -1,0 +1,8 @@
+git.viry.cc/gomod/glog v0.2.1 h1:61VQS+qTKiHrOfVUMXvvYTQQk8570Uqdi4rpOSvEqOA=
+git.viry.cc/gomod/glog v0.2.1/go.mod h1:e4ndIpsVbkUwjvf/t5Gs3LJIjuJCw70r91cDGLiodqo=
+git.viry.cc/gomod/util v1.10.3 h1:sxa5U+srRyX2nvxX4dlNP9qj7LA93dNwA7kRLoD7Bp8=
+git.viry.cc/gomod/util v1.10.3/go.mod h1:Xj6ihmOFklMvCRYHVACdNMbx742CehWL2d4teFMwbsY=
+github.com/AkvicorEdwards/glog v0.2.1 h1:brMnLkGj4H1FNJGck7LOUPGWgeWh2Bg21wm/cI+k3Os=
+github.com/AkvicorEdwards/glog v0.2.1/go.mod h1:yIT8yDHtnhYLvcBQDx4x5USdAjJruzF+N1dMXT6Rbow=
+github.com/AkvicorEdwards/util v1.10.3 h1:h669EqB4s1exLjQnFRXpr5P862NwLIT+6vrKz41+NOE=
+github.com/AkvicorEdwards/util v1.10.3/go.mod h1:pGI//jJj9S7nZrQC5Fy878kGkgiXyTsKBIct7zE05hI=
